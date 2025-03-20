@@ -1,11 +1,12 @@
 # 🔐 Login Form with Validation  
 
-🚀 A simple and responsive **Login Form** with real-time validation using JavaScript.  
+🚀 A simple and responsive **Login Form** with client-side validation using JavaScript.  
 
 ## ✨ Features  
-✅ Name, Email, and Password validation  
-✅ Alerts users of invalid input  
-✅ Password must be at least 6 characters  
+✅ Checks for empty fields (Name, Email, Password)  
+✅ Validates correct email format  
+✅ Ensures password length is at least 6 characters  
+✅ Displays error messages for a better user experience  
 ✅ Simple and clean UI  
 
 ## 🛠️ Tech Stack  
@@ -14,10 +15,10 @@
 🔹 JavaScript  
 
 ## 📸 Preview  
-![Login Form](https://github.com/Anaswara-kesavan/login-form-validation/blob/main/validation.png)  
+![Login Form Preview](https://raw.githubusercontent.com/Anaswara-kesavan/login-form-validation/main/preview.jpg)  
 
 ## 🎯 Live Demo  
-🔗 [Click here to see it live!](https:anaswara-kesavan.github.io/login-form-validation/)  
+🔗 [Click here to see it live!](https://anaswara-kesavan.github.io/login-form-validation/)  
 
 ## 📂 How to Use  
-1️⃣ Download the code or clone the repository:  
+1️⃣ Clone this repository:  
