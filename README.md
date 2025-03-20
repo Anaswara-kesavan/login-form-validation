@@ -15,7 +15,8 @@
 🔹 JavaScript  
 
 ## 📸 Preview  
-![Login Form Preview](https://github.com/Anaswara-kesavan/login-form-validation/blob/main/validation.png)  
+![Login Form Preview](https://raw.githubusercontent.com/Anaswara-kesavan/login-form-validation/main/validation.jpg)
+
 
 ## 🎯 Live Demo  
 🔗 [Click here to see it live!](https://anaswara-kesavan.github.io/login-form-validation/)  
